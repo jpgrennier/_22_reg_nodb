@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper{
+	width: 400px;
+	margin: 0 auto;
+	padding: 10px;
+	/*border: 1px solid green;*/
+}
+
+label{
+	display: block;
+	margin: 10px 0;
+}
+
+input{
+	float: right;
+}
+
+button{
+	padding: 2px;
+	margin-left: 356px;
+}
+
+.red{
+	color: red;
+}
